@@ -31,9 +31,6 @@ The application provides an **interactive front-end interface** where users can 
 - **Model Type:** Classification (e.g., Logistic Regression / Random Forest)  
 
 ---
-
-## 📂 Project Structure
-
 ## Dataset
 Source: Kaggle  
 [https://www.kaggle.com/datasets/username/dataset-name](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)  
