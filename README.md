@@ -37,3 +37,8 @@ Source: Kaggle
 
 License: Other (specified in description)  
 Used for educational/analysis purposes only.
+
+## Project Preview
+
+<img width="1180" height="795" alt="image" src="https://github.com/user-attachments/assets/83217534-587b-496f-bccb-92987d176f36" />
+
